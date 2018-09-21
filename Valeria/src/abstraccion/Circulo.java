@@ -12,8 +12,8 @@ package abstraccion;
 public class Circulo {
 float radio;
 float area;
-public Circulo(){
-    area=10;
+public Circulo(float x){
+    radio=x;
 }
 
 void calcularArea(){

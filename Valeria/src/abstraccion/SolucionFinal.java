@@ -11,8 +11,8 @@ package abstraccion;
  */
 public class SolucionFinal {
     public static void main(String[] args) {
-    Circulo x= new Circulo();
-   x.radio=4;
+    Circulo x= new Circulo(4);
+   //x.radio=4;
     x.calcularArea();
         System.out.println(x.area);
         
