@@ -1,0 +1,45 @@
+atributos: generalmente son caracteristicas fisicas facilmente identificables
+
+ejemplo
+
+fruta
+_____
+nombre 
+color
+forma
+tamaño
+sabor
+
+alumno
+______
+nombre
+cuenta
+carrera
+
+paciente
+__________
+nombre
+peso
+altura
+
+
+metodos: verbos son comportamientos y acciones
+
+metodo: tipo de retorno es un valor que resulta de la accón o metodo y argumento son las variables 
+que deben tener parentesis y que se requiere  para dar funcion a ese metodo, no se requieren si esa variables son atributos.
+
+metodo: argumento -> variables
+tipo de retorno -<> tipo de varible
+
+variables
+int x;
+float y;
+string z;
+
+ejemplos de tipo de variables
+byte
+float
+int
+string
+char
+boolean

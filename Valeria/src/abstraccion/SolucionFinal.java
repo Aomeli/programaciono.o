@@ -14,8 +14,14 @@ public class SolucionFinal {
     Circulo x= new Circulo(4);
    //x.radio=4;
     x.calcularArea();
-        System.out.println(x.area);
+        System.out.println("El area del circulo es: "+x.area);
         
+        Triangulo t=new Triangulo(3, 2);
+        t.calcularArea();
+        System.out.println("El area de triangulo es: "+t.area);
         
+        Rectangulo m=new Rectangulo(4, 2);
+        m.calcularArea();
+        System.out.println("El area del rectangulo: .|."+m.area);
     }
 }
